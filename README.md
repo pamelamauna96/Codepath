@@ -47,35 +47,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 [   
-   MDN Web Docs
-   https://developer.mozilla.org/en-US/docs/web/javascript/reference/global_objects/math/random
-   
-   Javascript
-   https://www.javascript.com/learn/conditionals
-  
-   W3school
-   https://www.w3schools.com/jsref/jsref_if.asp#:~:text=The%20if%2Felse%20statement%20executes,actions%20based%20on%20different%20conditions.
-
-   Mentor: Carlos Colindres - Digital Innovation Analyst
-   https://www.linkedin.com/in/carlos-colindres-7ba8841b5/
 ]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [One of the challenges I encounter in the process of the memory game was the game logic
-   portion. The main challenge I encounter was implementing the diagram into the code
-   itself. While I understood the process of how it should run by reading the instruction,
-   now when it was time to write the if and else blocks to execute the program correctly
-   on what is already build on without creating bugs.To overcome this challenge,
-   I did the following steps: I had to understand the if, else block and the condition
-   inside each block. The logic of the if block is whether the statement is true, if
-   the player gets the sequence correct, the player passes on to the next round, making
-   the statement true. Now the else block is whether the condition is false, now if the
-   player fails to get the sequence correct in the game the block of code than it becomes
-   false meaning the player has lost. That was stated in the diagram by showing how the if
-   and else statement would run, now would be implementing and executing the code. I also
-   had some assistant from my mentor by helping me understand the if/else block in
-   different forms and examples that lead me to understand how to correctly put it into
-   the game logic section.]
+   []
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
    [
@@ -102,8 +77,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
    features would not only improve the general interface of the game but would also improve the user experience.]
 
 ## Interview Recording URL Link
-
-[](https://drive.google.com/file/d/1oZ6TKuwHNCvxJpVPTKeRtGZJe4QXgErk/view?usp=sharing)
 
 ## License
 
